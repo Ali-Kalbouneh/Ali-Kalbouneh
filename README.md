@@ -2,11 +2,9 @@
 
 # Ali Kalbouneh
 
-### Computer Science @ UMass Amherst
+Computer Science @ UMass Amherst
 
-**Software Engineering · Backend Systems · Financial Technology**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Ali--Kalbouneh-181717?style=for-the-badge&logo=github)](https://github.com/Ali-Kalbouneh)
+Interested in **software engineering, financial technology, and the systems behind both.**
 
 </div>
 
@@ -14,13 +12,19 @@
 
 ## About Me
 
-Hey, I'm Ali! I'm a Computer Science student at UMass Amherst with a growing interest in **software engineering and financial technology**. I like understanding how real systems work, especially the software and infrastructure behind products that people and businesses rely on every day.
+Hey, I'm Ali. I'm a Computer Science student at UMass Amherst. I'm interested in software engineering and financial technology, but more broadly, I like understanding how things work and why they were built the way they were.
 
-I'm naturally curious and I'm always looking for something new to learn, whether that's digging into a technology I haven't used before, figuring out why a system was designed a certain way, or building a project just to see if I can make an idea work. I especially enjoy projects that let me follow an idea through the full engineering process, from designing and building it to debugging the frustrating parts and eventually getting everything working together.
+I'm always trying to learn something new. Sometimes that means picking up a technology I haven't worked with before, going down a rabbit hole about how a large system is designed, or building something because I want to understand what goes into making it work. A lot of what I enjoy about computer science is that there is always another layer to understand.
 
-If you're looking through my GitHub, you'll find a mix of things I've built while exploring different areas of software. I'm still learning, still experimenting, and always looking for the next interesting problem to work on.
+I'm particularly interested in the software behind financial products and institutions, backend systems, infrastructure, and the engineering decisions that allow software to operate reliably at scale. My interests are still evolving as I learn more, so I'm always open to exploring something I haven't come across yet.
 
-## Tech Stack
+Outside of coursework, I spend a lot of my time learning independently, experimenting with ideas, and trying to turn what I learn into something tangible.
+
+## Interests
+
+`Software Engineering` · `Financial Technology` · `Backend Systems` · `Infrastructure` · `Databases` · `System Design`
+
+## Technologies I've Worked With
 
 <div align="center">
 
@@ -37,57 +41,18 @@ If you're looking through my GitHub, you'll find a mix of things I've built whil
 
 </div>
 
-## Featured Work
+## A Few Things I've Built
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**[ASL Translator](https://github.com/Ali-Kalbouneh/asl-translator)**  
+A real-time computer-vision experiment for recognizing ASL letter gestures using hand landmarks and a machine-learning classification pipeline.
 
-### ✋ ASL Translator
-
-Real-time computer-vision application that recognizes ASL letter gestures from webcam input using MediaPipe hand landmarks and a Random Forest classification pipeline.
-
-**Built with**  
-`Python` `OpenCV` `MediaPipe` `scikit-learn`
-
-**Engineering highlights**
-- Real-time hand tracking and inference
-- Feature extraction and normalization
-- Custom training-data collection pipeline
-- Prediction smoothing for stable output
-
-[**View Repository →**](https://github.com/Ali-Kalbouneh/asl-translator)
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 X Sentiment Analysis
-
-Python data pipeline that collects posts from X, performs sentiment classification, aggregates sentiment trends over time, and compares them with market-price data.
-
-**Built with**  
-`Python` `Pandas` `VADER` `Twikit`
-
-**Engineering highlights**
-- Configurable data-collection pipeline
-- Sentiment classification and aggregation
-- Market-data integration
-- CSV outputs and visualization
-
-[**View Repository →**](https://github.com/Ali-Kalbouneh/X-sentiment-analysis)
-
-</td>
-</tr>
-</table>
-
-## Currently
-
-I'm deepening my experience in **backend systems, databases, infrastructure, financial technology, and system design**, while building projects that move beyond isolated algorithms into complete applications.
+**[X Sentiment Analysis](https://github.com/Ali-Kalbouneh/X-sentiment-analysis)**  
+A data pipeline for collecting posts from X, analyzing sentiment over time, and comparing those trends with market-price data.
 
 ---
 
 <div align="center">
 
-<sub>Always learning, building, and looking for interesting problems to solve.</sub>
+<sub>Always learning, building, and looking for interesting problems to understand.</sub>
 
 </div>
