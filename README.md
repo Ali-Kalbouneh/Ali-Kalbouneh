@@ -4,7 +4,7 @@
 
 ### Computer Science @ UMass Amherst
 
-**Software Engineering · Backend Systems · Infrastructure**
+**Software Engineering · Backend Systems · Financial Technology**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Ali--Kalbouneh-181717?style=for-the-badge&logo=github)](https://github.com/Ali-Kalbouneh)
 
@@ -12,11 +12,13 @@
 
 ---
 
-## About
+## About Me
 
-I'm a Computer Science student at the University of Massachusetts Amherst interested in building reliable software systems and understanding how they work from the application layer down.
+Hey, I'm Ali! I'm a Computer Science student at UMass Amherst with a growing interest in **software engineering and financial technology**. I like understanding how real systems work, especially the software and infrastructure behind products that people and businesses rely on every day.
 
-I enjoy projects where I can work across the engineering lifecycle: designing the system, implementing it, debugging it, and making it usable.
+I'm naturally curious and I'm always looking for something new to learn, whether that's digging into a technology I haven't used before, figuring out why a system was designed a certain way, or building a project just to see if I can make an idea work. I especially enjoy projects that let me follow an idea through the full engineering process, from designing and building it to debugging the frustrating parts and eventually getting everything working together.
+
+If you're looking through my GitHub, you'll find a mix of things I've built while exploring different areas of software. I'm still learning, still experimenting, and always looking for the next interesting problem to work on.
 
 ## Tech Stack
 
@@ -80,12 +82,12 @@ Python data pipeline that collects posts from X, performs sentiment classificati
 
 ## Currently
 
-I'm deepening my experience in **backend systems, databases, infrastructure, and system design**, while building projects that move beyond isolated algorithms into complete applications.
+I'm deepening my experience in **backend systems, databases, infrastructure, financial technology, and system design**, while building projects that move beyond isolated algorithms into complete applications.
 
 ---
 
 <div align="center">
 
-<sub>Building software with an emphasis on systems, reliability, and strong engineering fundamentals.</sub>
+<sub>Always learning, building, and looking for interesting problems to solve.</sub>
 
 </div>
