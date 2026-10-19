@@ -2,7 +2,7 @@
 
 # Ali Kalbouneh
 
-Computer Science @ UMass Amherst
+Computer Science & Math @ UMass Amherst
 
 Interested in **software engineering, financial technology, and the systems behind both.**
 
